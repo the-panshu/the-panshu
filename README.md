@@ -28,8 +28,9 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-panshu&show_icons=true&locale=en" alt="the-panshu" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-panshu&" alt="the-panshu" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-panshu&show_icons=true&locale=en&layout=compact" alt="the-panshu" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-panshu&show_icons=true&locale=en&layout=compact" alt="the-panshu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-panshu&" alt="the-panshu" /></p>
+
 
 
 
