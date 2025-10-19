@@ -1,22 +1,23 @@
+<div align="center">
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&height=80&lines=🧑🏻‍💻Building+Tech+That+Feels+Like+Magic;✨Crafting+Clean+UI+%26+Calls+to+Wonder;☕Learning+Out+Loud+•+Coding+Everyday;🔥Frontend+%7C+AI+%7C+Design+Thinker;&color=00FFF0,00B4D8,0096C7,0077B6,48CAE4"/>
+</div>
+
 <p align="center">
   <img src="https://github.com/the-panshu/Asset_Images/blob/main/Software%20Developer%20(1).png" alt="Banner" width="100%" />
 </p>
 
-<div align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFF0&center=true&vCenter=true&width=780&height=80&lines=Building+Tech+That+Feels+Like+Magic;Crafting+Clean+UI+%26+Calls+to+Wonder;Learning+Out+Loud+%E2%80%A2+Coding+Everyday;Frontend+%7C+AI+%7C+Design+Thinker;" />
-</div>
 
 ## About Me
-Hey there! I’m **Deepanshu**, a Full Stack AI Engineer with a vision to blend **engineering precision with creative intelligence**. I build **AI-powered MERN stack applications** that don’t just look good - they think, adapt, and perform.
+Hey, I’m Deepanshu, a Full Stack AI Engineer and 2025 B.Tech graduate in Electronics & Communication Engineering from NIT Allahabad, building smart AI-powered MERN apps with precision and creativity.
 
-🎓 I’m a 2025 B.Tech graduate in Electronics & Communication Engineering from NIT Allahabad - shaped by curiosity, challenges, and the dream of building world-class products.
+Core Expertise:
+- Skilled in solving complex DSA problems (Knight on LeetCode, Specialist on Codeforces)
+- Experienced in scalable System Design and DevOps practices
+- Hackathon Achievements: 5× Finalist & 2× Winner at Hack36
+- Passionate about building AI-powered, intelligent web applications
+- Expert in crafting engaging UX/UI systems that enhance user delight
 
-🌱 Currently exploring:
-- AI-powered web apps & creative automation
-- UX/UI systems that make users smile
-- Scalable design + developer collaboration
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/> React&nbsp;
