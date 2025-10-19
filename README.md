@@ -1,41 +1,90 @@
-![My Image](https://github.com/the-panshu/Personal_Website-HTML/blob/main/GIT%20IMAGE/Screenshot%202024-07-05%20222540.png)
-<!-- <h1 align="center">Hi 👋, I'm DEEPANSHU RAJPUT</h1> -->
-
-<h3 align="center">"Building Tomorrow's Solutions Today."</h3>
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ask_deepanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ask_deepanshu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepanshu-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-rajput" height="30" width="40" /></a>
-<a href="https://instagram.com/_thepanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thepanshu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/darkcryptic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darkcryptic" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/darkcryptic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darkcryptic" height="30" width="40" /></a>
+  <img src="https://github.com/the-panshu/Asset_Images/blob/main/Software%20Developer%20(1).png" alt="Banner" width="100%" />
 </p>
 
+<div align="center">
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFF0&center=true&vCenter=true&width=780&height=80&lines=Building+Tech+That+Feels+Like+Magic;Crafting+Clean+UI+%26+Calls+to+Wonder;Learning+Out+Loud+%E2%80%A2+Coding+Everyday;Frontend+%7C+AI+%7C+Design+Thinker;" />
+</div>
+
+## About Me
+Hey there! I’m **Deepanshu**, a Full Stack AI Engineer with a vision to blend **engineering precision with creative intelligence**. I build **AI-powered MERN stack applications** that don’t just look good - they think, adapt, and perform.
+
+🎓 I’m a 2025 B.Tech graduate in Electronics & Communication Engineering from NIT Allahabad - shaped by curiosity, challenges, and the dream of building world-class products.
+
+🌱 Currently exploring:
+- AI-powered web apps & creative automation
+- UX/UI systems that make users smile
+- Scalable design + developer collaboration
+
+## 🛠️ Tech Stack
+
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/> React&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26" style="background:white; border-radius:6px;"/> Next.js&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26"/> TypeScript&nbsp;
+<img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" width="26"/> Tailwind&nbsp;
+<img src="https://logowik.com/content/uploads/images/bootstrap-new725.logowik.com.webp" width="26"/> Bootstrap
+
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> Node.js&nbsp;
+<img src="https://logowik.com/content/uploads/images/express-js2119.logowik.com.webp" width="26" style="background:white; border-radius:6px;"/> Express.js&nbsp;
+
+### Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> MySQL&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB
+
+### AI/ML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/> Python&nbsp;
+<img src="https://cdn.simpleicons.org/openai/412991" width="26"/> OpenAI API&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/4285f4" width="26"/> Gemini&nbsp;
+<img src="https://avatars.githubusercontent.com/u/110365333?s=200&v=4" width="26"/> LangChain (planned)
+
+### Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26"/> Figma&nbsp;
+<img src="https://logowik.com/content/uploads/images/framer-icon2440.logowik.com.webp" width="26"/> Framer&nbsp;
+
+### Deployment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="26"/> Vercel&nbsp;
+<img src="https://www.netlify.com/v3/img/components/logomark.png" width="26"/> Netlify
+
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26"/> VS Code&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="26"/> Postman&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="26"/> MongoDB Compass&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/> Git&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" style="background:white; border-radius:6px;"/> GitHub&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26"/> Docker&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26"/> Linux
 
 
 
+### 🎧 Now Playing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Company Logo" height="150"/>
-<img src="https://github.com/the-panshu/Personal_Website-HTML/blob/main/GIT%20IMAGE/Charging%202.gif" alt="Company Logo" height="150"/>
-<img src="https://github.com/the-panshu/Personal_Website-HTML/blob/main/GIT%20IMAGE/html-system-website-concept.jpg" alt="Company Logo" height="150"/>
 
+## Connect with me
+
+<p align="center">
+  <a href="https://x.com/ask_deepanshu" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/1da1f2" alt="X/Twitter" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://able-area-958094.framer.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:thepanshu.rajput@email.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deepanshu-rajput/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_thepanshu/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/e4405f" alt="Instagram" height="30" />
+  </a>
 </p>
-
-<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-panshu&show_icons=true&locale=en" alt="the-panshu" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-panshu&show_icons=true&locale=en&layout=compact" alt="the-panshu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-panshu&" alt="the-panshu" /></p>
-
--->
-
-
-
-
-
 
 
