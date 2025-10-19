@@ -1,11 +1,10 @@
-<div align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&height=80&lines=🧑🏻‍💻Building+Tech+That+Feels+Like+Magic;✨Crafting+Clean+UI+%26+Calls+to+Wonder;☕Learning+Out+Loud+•+Coding+Everyday;🔥Frontend+%7C+AI+%7C+Design+Thinker;&color=00FFF0,00B4D8,0096C7,0077B6,48CAE4"/>
-</div>
-
 <p align="center">
-  <img src="https://github.com/the-panshu/Asset_Images/blob/main/Software%20Developer%20(1).png" alt="Banner" width="100%" />
+  <img src="https://github.com/the-panshu/Asset_Images/blob/main/Github-banner.png" alt="Banner" width="100%" />
 </p>
 
+<div align="center">
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFF0&center=true&vCenter=true&width=780&height=80&lines=Building+Tech+That+Feels+Like+Magic;Crafting+Clean+UI+%26+Calls+to+Wonder;Learning+Out+Loud+%E2%80%A2+Coding+Everyday;Frontend+%7C+AI+%7C+Design+Thinker;" />
+</div>
 
 ## About Me
 Hey, I’m Deepanshu, a Full Stack AI Engineer and 2025 B.Tech graduate in Electronics & Communication Engineering from NIT Allahabad, building smart AI-powered MERN apps with precision and creativity.
